@@ -10,17 +10,17 @@ To get started with the Plankton.cash Bump Bot, click the link below:
 
 [Access the Plankton.cash Bump Bot on Telegram](https://t.me/planktonbump_bot)
 
-##Usage Instructions
+## Usage Instructions
 For a comprehensive guide on how to use the Plankton.cash Bump Bot, check out the video tutorial:
 
 [How to Use the Plankton.cash Bump Bot](https://www.youtube.com/watch?v=wGjT8soSmFQ&feature=youtu.be)
 
-##Contact
+## Contact
 For more information or if you have any questions, please reach out through our Telegram bot.
 
 Happy bumping!
 
-##Keywoards
+## Keywoards
 
 - Pump Fun Bump Bot
 - Pump.fun Bump Bot Tutorial
