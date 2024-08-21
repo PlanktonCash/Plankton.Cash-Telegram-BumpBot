@@ -20,7 +20,7 @@ For more information or if you have any questions, please reach out through our 
 
 Happy bumping!
 
-## Keywoards
+## Keywords
 
 - Pump Fun Bump Bot
 - Pump.fun Bump Bot Tutorial
