@@ -3,8 +3,8 @@ Looking for the best pump fun bump bot? The Plankton.cash Bump Bot is here to he
 ## Description
 The Plankton.cash Bump Bot is a powerful tool designed to maximize your token's exposure on Pump.fun. This bot seamlessly integrates with the Solana blockchain and Plankton.cash API to execute automated transactions, ensuring your token is always at the forefront.
 ### Why Choose Plankton.cash?
-Free to Use: No upfront costs, and only a low transaction fee of 0.04%.
-Efficient Bumping: Automatically buy and sell your Pump.fun tokens to keep them visible.
+- Free to Use: No upfront costs, and only a low transaction fee of 0.04%.
+- Efficient Bumping: Automatically buy and sell your Pump.fun tokens to keep them visible.
 ## Access the Bot
 To get started with the Plankton.cash Bump Bot, click the link below:
 
